@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waseem</h1>
 <h3 align="center">A passionate frontend developer from pakistan,Gilgit Baltistan</h3>
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🔭 I’m currently working on **Multipage React App and WebFlow**
 
